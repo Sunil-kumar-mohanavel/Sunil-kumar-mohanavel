@@ -17,40 +17,6 @@ SDET  • Automation Test Engineer  • QA Automation Engineer  • Full-Stack A
 ---
 
 
-
-## 🧪 **Featured Projects**
-
-| Project                                        | Description                                                                                                                         | Tech Stack                     | Repo                                                                            |
-| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------- |
-| 🛒 **OpenCart Automation (UI + DB Testing Project)**        | Built a comprehensive end-to-end automation framework for the OpenCart e-commerce platform using the Page Object Model (POM) . Implemented reusable utilities and database validation using JDBC for backend data consistency checks. Integrated the framework with Jenkins CI/CD for automated execution and reporting | Selenium • TestNG • Maven • JDBC • Jenkins    | 🔗 [View Repository](https://github.com/Sunil-kumar-mohanavel/opencart_project) |
-| 🌐 **Fake Store API Automation (API Project)** | Designed and implemented a REST API automation framework using **Rest Assured and Postman**, featuring comprehensive response validation and schema verification. Enhanced test coverage and reporting efficiency with Extent Reports.                        | Rest Assured • Postman • Maven • Extent Reports  | 🔗 [View Repository](https://github.com/Sunil-kumar-mohanavel/FakeStoreProject) |
-
-
----
-
-## 🧰 **Learning & Practice Repositories**
-
-Here’s a glimpse of my continuous learning and technical practice work 👇
-
-| Area                         | Repository                                                                          | Focus                                    |
-| ---------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------- |
-| 💡 Java Basics               | [Javabasicprograms](https://github.com/Sunil-kumar-mohanavel/Javabasicprograms)     | Data types, control statements, Method , Logical programs |
-| 🧩 Java Programming          | [Javaprogramming](https://github.com/Sunil-kumar-mohanavel/Javaprogramming)         | OOPs concepts, Constructor ,  Interface , Abstraction |
-| ⚙️ Java Library              | [JavaLibraries](https://github.com/Sunil-kumar-mohanavel/JavaLibraries)             | Collections , Exception , Thread , Array , String |
-| 🔥 Java 8 Features           | [Java8Featutres](https://github.com/Sunil-kumar-mohanavel/Java8Featutres)           | Date Time, Stream API, File Handling       | 
-| 🧠 Selenium All Topics       | [Selenium](https://github.com/Sunil-kumar-mohanavel/Selenium)                       | Locators, frames, actions , Handling , Selenium - 4  |
-| 🛒 OpenCart Selenium Program | [OpenCart_Selenium](https://github.com/Sunil-kumar-mohanavel/OpenCart_Selenium)     | UI automation experiments                |
-| 📮 Postman All Topics        | [postman-collection](https://github.com/Sunil-kumar-mohanavel/postman-collection)   | Response Validations, Assertions, Newman ,API Chaining |
-| 🧬 Rest Assured All Topics      | [RestAssured](https://github.com/Sunil-kumar-mohanavel/RestAssured)                 | Request Payloads, JSON & XML Schema , Authorizations   |
-| 🐾 Pet Store Rest Assured    | [petstoreRestAssured](https://github.com/Sunil-kumar-mohanavel/petstoreRestAssured) | Practice API framework                   |
-
-> *Note: These repositories reflect structured learning, code practice, and gradual evolution toward professional automation frameworks.*
-
----
-
-
-
-
 ## 🧰 Tech Stack
 
 ### 💻 Languages
@@ -111,6 +77,35 @@ Here’s a glimpse of my continuous learning and technical practice work 👇
 ---
 
 
+## 🧪 **Featured Projects**
+
+| Project                                        | Description                                                                                                                         | Tech Stack                     | Repo                                                                            |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------- |
+| 🛒 **OpenCart Automation (UI + DB Testing Project)**        | Built a comprehensive end-to-end automation framework for the OpenCart e-commerce platform using the Page Object Model (POM) . Implemented reusable utilities and database validation using JDBC for backend data consistency checks. Integrated the framework with Jenkins CI/CD for automated execution and reporting |Selenium • TestNG • Maven • JDBC • Jenkins    | 🔗 [View Repository](https://github.com/Sunil-kumar-mohanavel/opencart_project) |
+| 🌐 **Fake Store API Automation (API Project)** | Designed and implemented a REST API automation framework using **Rest Assured and Postman**, featuring comprehensive response validation and schema verification. Enhanced test coverage and reporting efficiency with Extent Reports.                        | Rest Assured • Postman • Maven • Extent Reports  | 🔗 [View Repository](https://github.com/Sunil-kumar-mohanavel/FakeStoreProject) |
+
+
+---
+
+## 🧰 **Learning & Practice Repositories**
+
+Here’s a glimpse of my continuous learning and technical practice work 👇
+
+| Area                         | Repository                                                                          | Focus                                    |
+| ---------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------- |
+| 💡 Java Basics               | [Javabasicprograms](https://github.com/Sunil-kumar-mohanavel/Javabasicprograms)     | Data types, control statements, Method , Logical programs |
+| 🧩 Java Programming          | [Javaprogramming](https://github.com/Sunil-kumar-mohanavel/Javaprogramming)         | OOPs concepts, Constructor ,  Interface , Abstraction |
+| ⚙️ Java Library              | [JavaLibraries](https://github.com/Sunil-kumar-mohanavel/JavaLibraries)             | Collections , Exception , Thread , Array , String |
+| 🔥 Java 8 Features           | [Java8Featutres](https://github.com/Sunil-kumar-mohanavel/Java8Featutres)           | Date Time, Stream API, File Handling       | 
+| 🧠 Selenium All Topics       | [Selenium](https://github.com/Sunil-kumar-mohanavel/Selenium)                       | Locators, frames, actions , Handling , Selenium - 4  |
+| 🛒 OpenCart Selenium Program | [OpenCart_Selenium](https://github.com/Sunil-kumar-mohanavel/OpenCart_Selenium)     | UI automation experiments                |
+| 📮 Postman All Topics        | [postman-collection](https://github.com/Sunil-kumar-mohanavel/postman-collection)   | Response Validations, Assertions, Newman ,API Chaining |
+| 🧬 Rest Assured All Topics      | [RestAssured](https://github.com/Sunil-kumar-mohanavel/RestAssured)                 | Request Payloads, JSON & XML Schema , Authorizations   |
+| 🐾 Pet Store Rest Assured    | [petstoreRestAssured](https://github.com/Sunil-kumar-mohanavel/petstoreRestAssured) | Practice API framework                   |
+
+> *Note: These repositories reflect structured learning, code practice, and gradual evolution toward professional automation frameworks.*
+
+---
 
 
 
