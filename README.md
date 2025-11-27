@@ -122,7 +122,7 @@ Here’s a glimpse of my continuous learning and technical practice work 👇
 ## 📬 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sunilkumarmohanavel@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sunil-kumar-mohanavel-m/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Sunil-kumar-mohanavel)
 
 ---
