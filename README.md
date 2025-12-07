@@ -105,17 +105,6 @@ Here’s a glimpse of my continuous learning and technical practice work 👇
 
 > *Note: These repositories reflect structured learning, code practice, and gradual evolution toward professional automation frameworks.*
 
----
-
-
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Sunil-kumar-mohanavel\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil-kumar-mohanavel\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
-
-
 
 ---
 
